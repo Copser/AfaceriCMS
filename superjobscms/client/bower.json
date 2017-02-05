@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/Copser/AfaceriCMS",
+  "authors": [
+    "Copser <ppilipovic84@gmail.com>"
+  ],
+  "description": "frontend packages",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+    "vue": "^2.0.0"
+  }
+}
